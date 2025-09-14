@@ -5,8 +5,7 @@
 **`Desenvolvedora Front-end`**  ♡
 
 
-💡 Apaixonada por design, artes visuais e experiência do usuário <br>
-🛠️ Desenvolvendo projetos práticos durante o curso  <br>
+ Apaixonada por design, artes visuais e experiência do usuário  | Desenvolvendo projetos práticos durante o curso  
 🌱 Em constante evolução rumo ao Front-End!
 
 ##
