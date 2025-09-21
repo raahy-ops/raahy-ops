@@ -6,7 +6,7 @@
 
 
  Apaixonada por design, artes visuais e experiência do usuário  | Desenvolvendo projetos práticos durante o curso  
-🌱 Em constante evolução rumo ao Front-End!
+🌱 Em constante evolução, ao Front-End!
 
 ##
 
