@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF00F6"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=FF00F6"/>
 
 # 👩🏻‍💻 Rayssa Bispo 
 
@@ -39,7 +39,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/raahy-ops/raahy-ops/output/pacman-contribution-graph.svg">
 </picture>
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=FF00F6&width=435&lines=%E2%96%B8+Tecnologias+e+ferramentas)](https://git.io/typing-svg)
+###
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Core&size=17&pause=1000&color=FF00F6&width=435&lines=%E2%8A%B9+Tecnologias+e+Ferramentas+)](https://git.io/typing-svg)
 <div style=" display: inline_block"> 
 
  ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
