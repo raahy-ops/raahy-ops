@@ -10,8 +10,9 @@
 
 ##
 
-###
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Core&size=17&pause=1000&color=FF00F6&width=435&lines=%E2%8A%B9+Formas+de+Contato)](https://git.io/typing-svg)
 
+###
 <div align="left">
   <a href="https://www.instagram.com/yssa.bispo/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF" alt="instagram logo"  />
@@ -38,38 +39,36 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/raahy-ops/raahy-ops/output/pacman-contribution-graph.svg">
 </picture>
 
-### 📍 Tecnologias e Linguagens
-<div style=" display: inline_block"> <br>
-  <img align="center"  alt="javascript" height="30"  width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" /> 
-  <img align="center" alt="css3 logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"  />  
-  <img align="center" alt="html5 logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"  />  
-  <img align="center" alt="java logo"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  /> 
-   <img align="center" alt="MySQL"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  /> 
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=FF00F6&width=435&lines=%E2%96%B8+Tecnologias+e+ferramentas)](https://git.io/typing-svg)
+<div style=" display: inline_block"> 
+
+ ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=007ACC)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4)
+![React Native](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=07405E)
+![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=E44C30)
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37)
+
 </div>
+
+
+
 
 ##
 
 </br>
 
-### ⊹ Estatísticas
----
-<img 
-  align="left"
-  alt="GitHub Stats"
-  height="150"
-  style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api?username=raahy-ops&border_radius=10&border_color=36123c&show_icons=true&title_color=FF00F6&text_color=FFF&theme=midnight-purple&include_all_commits=true&locale=pt-br"
-  />
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Core&size=17&pause=1000&color=FF00F6&width=435&lines=%E2%8A%B9+Estat%C3%ADsticas)](https://git.io/typing-svg)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raahy-ops&theme=jolly)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raahy-ops&theme=jolly&utcOffset=8)
 
-  <img 
-  align="left"
-  alt="GitHub Stats"
-  height="150"
-  style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=raahy-ops&theme=midnight-purple&border_radius=10&border_color=36123c&layout=compact&title_color=FF00F6&text_color=FFF&custom_title=Tecnologias&langs_count=7"
-  />
+</br>
+
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=FF00F6&section=footer"/>
 
 
-
-  </br>
   
