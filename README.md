@@ -9,7 +9,7 @@
 🌱 Em constante evolução, ao Front-End!
 
 ##
-**⊹ Formas de contato**
+**`⊹ Formas de contato`**
 ###
 <div align="left">
   <a href="https://www.instagram.com/yssa.bispo/" target="_blank">
