@@ -9,9 +9,7 @@
 🌱 Em constante evolução, ao Front-End!
 
 ##
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Core&size=17&pause=1000&color=FF00F6&width=435&lines=%E2%8A%B9+Formas+de+Contato)](https://git.io/typing-svg)
-
+**⊹ Formas de contato**
 ###
 <div align="left">
   <a href="https://www.instagram.com/yssa.bispo/" target="_blank">
